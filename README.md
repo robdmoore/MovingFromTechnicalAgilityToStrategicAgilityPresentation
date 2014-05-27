@@ -1,7 +1,7 @@
 Moving from Technical Agility to Strategic Agility presentation
 ===============================================================
 
-[Presentation](https://github.com/robdmoore/MovingFromTechnicalAgilityToStrategicAgilityPresentation/raw/master/Presentation.pptx) by myself and [Jess Panni](https://twitter.com/jesspanni) about Moving from Technical Agility to Strategic Agility.
+[Presentation](https://github.com/robdmoore/MovingFromTechnicalAgilityToStrategicAgilityPresentation/raw/master/Presentation.pptx) by [Rob Moore](https://twitter.com/robdmoore) and [Jess Panni](https://twitter.com/jesspanni) about Moving from Technical Agility to Strategic Agility.
 
 This presentation was delivered to [Agile Perth Meetup Group](http://www.meetup.com/Agile-Perth/events/174431252/) on May 8th 2014 and you can view it on [YouTube](https://www.youtube.com/watch?v=zofxl8cZyOc).
 
